@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**atoaidoocr7/atoaidoocr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ato Aidoo and I'm a computer science student at Temple University. Here's some info about me!
 
-Here are some ideas to get you started:
+⚡ Work experience: <br>
+- **Software Engineer intern at Tesla** - Backend development on the Security Engineering team. [Fremont, CA. Fall 2022]
+- **Software Engineer intern at Visa** - Backend development on the Innovation Platform team. [Foster City, CA. Summer 2022]
+- **STEM Tutor at Temple University** - Python, Java, Mathematics, Data Structures & Algorithms. [Philadelphia, PA. Summer 2021 - Present]
+- **Software Engineer intern at Chubb** - Backend development on the Insurance Claims  team. [Philadelphia, PA. Summer 2021]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interests:
+-Distributed Systems
+-Backend Development
+-Machine Learning
+-Cloud Computing
+-Fitness
+-Inspiring others and giving back to my community 
+
+💬 Reach me by email or LinkedIn! ato.aidoo@temple.edu | https://www.linkedin.com/in/ato-aidoo
+
+📫 Visit my website: https://atoaidoocr7.github.io/portfolio
