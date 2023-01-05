@@ -16,7 +16,7 @@ My name is Ato Aidoo and I'm a computer science student at Temple University. He
 - Machine Learning
 - Application development
 - Fitness
--Inspiring others and giving back to my community 
+- Inspiring others and giving back to my community 
 
 💬 Reach me by email or LinkedIn! ato.aidoo@temple.edu | https://www.linkedin.com/in/ato-aidoo
 
