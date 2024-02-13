@@ -3,11 +3,11 @@
 My name is Ato and I'm a computer science student from Philadelphia, PA. Here's some info about me!
 
 ⚡ Work experience: <br>
-- **Software Engineer Intern at Google** - Distributed Systems/Backend Engineering on the Google Cloud Dataproc Platform. [Remote. Fall 2023]
-- **Software Engineer Intern at Datadog** - Backend Engineering on the Datadog Alerting Platform. [New York. Summer 2023]
-- **Software Engineer Intern at Tesla** - Security Engineering on the Security Platform. [Fremont, California. Fall 2022]
-- **Software Developer Intern at Visa** - Backend Engineering on the Payments & Innovation Platform. [Foster City, California. Summer 2022]
-- **Software Developer Intern at Chubb** - Backend Engineering on the Insurance Claims team. [Philadelphia, Pennsylvania, Summer 2021]
+- **Software Engineer Intern at Google** - Distributed Systems/Backend Engineering on the Google Cloud Dataproc Platform. [Fall 2023]
+- **Software Engineer Intern at Datadog** - Backend Engineering on the Datadog Alerting Platform. [Summer 2023]
+- **Software Engineer Intern at Tesla** - Security Engineering on the Security Platform. [Fall 2022]
+- **Software Developer Intern at Visa** - Backend Engineering on the Payments & Innovation Platform. [Summer 2022]
+- **Software Developer Intern at Chubb** - Backend Engineering on the Insurance Claims team. [Summer 2021]
 
 🌱 Interests:
 - Distibuted Systems.
