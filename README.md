@@ -19,4 +19,5 @@ My name is Ato Aidoo, a Software Engineer passionate about learning and solving 
 
 💬 Reach me by email or LinkedIn! atokaidoo7@gmail.com | https://www.linkedin.com/in/ato-aidoo
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atoaidoocr7&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atoaidoocr7&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats) -->
