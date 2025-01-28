@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ato and I'm a computer science student from Philadelphia, PA. Here's some info about me!
+My name is Ato Aidoo, a Software Engineer passionate about learning and solving problems no matter how complex. Here's some info about me!
 
 ⚡ Work experience: <br>
 - **Software Engineer at Datadog** - Backend Engineering on the [Alerting Platform](https://docs.datadoghq.com/monitors/). [Feb 2024 - Present]
@@ -11,11 +11,10 @@ My name is Ato and I'm a computer science student from Philadelphia, PA. Here's 
 - **Software Developer Intern at Chubb** - Backend Engineering on the Insurance Claims team. [Summer 2021]
 
 🌱 Interests:
-- Distibuted Systems.
-- Big Data Systems.
-- Infrastructure.
+- Distibuted Systems
+- Big Data Systems
 - Database Systems
-- Mid-Long Distance Running.
+- Mid-Long Distance Running
 - Inspiring others/giving back to my community
 
 💬 Reach me by email or LinkedIn! atokaidoo7@gmail.com | https://www.linkedin.com/in/ato-aidoo
